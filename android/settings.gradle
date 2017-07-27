@@ -1,0 +1,3 @@
+rootProject.name = 'CareerSimulator'
+
+include ':app'
